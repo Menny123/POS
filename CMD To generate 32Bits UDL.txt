@@ -1,0 +1,1 @@
+C:\Windows\syswow64\rundll32.exe "C:\Program Files (x86)\Common Files\System\Ole DB\oledb32.dll", OpenDSLFile C:\test.udl, where C:\test.udl is the file path to the UDL file you have created. This will open the UDL file.
